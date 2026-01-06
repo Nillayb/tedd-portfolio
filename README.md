@@ -330,7 +330,7 @@ portfolio
                 
                 <div class="contact-info">
                     <div class="contact-item">
-                        <p><strong>📧 Email</strong><br>teddykavoi@example.com</p>
+                        <p><strong>📧 Email</strong><br>tkavoi6@gmail.com.com</p>
                     </div>
                     <div class="contact-item">
                         <p><strong>💼 LinkedIn</strong><br><a href="https://linkedin.com/in/teddykavoi" target="_blank">linkedin.com/in/teddykavoi</a></p>
